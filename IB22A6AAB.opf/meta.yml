@@ -1,0 +1,16 @@
+id: IB22A6AAB
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:55:07.827564
+last_modified: 2023-02-08 14:55:07.827690
+source_metadata:
+  title: Bhaiṣajyagurupūrvapraṇidhānasūtra
+  language: zh
+bases:
+  BF85:
+    base_file: BF85.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

@@ -1,0 +1,87 @@
+id: d118ca485b26420d8c42d101ac3b825f
+annotation_type: index
+revision: '00001'
+annotations:
+  40edb7fe8c724e07bdccaf3bfc0c32b2:
+    base: BF85.txt
+    Chapters:
+    - title: §0-4
+      span:
+        start: 0
+        end: 446
+    - title: §5
+      span:
+        start: 447
+        end: 1456
+    - title: §6
+      span:
+        start: 1457
+        end: 1670
+    - title: §7
+      span:
+        start: 1671
+        end: 1951
+    - title: §8
+      span:
+        start: 1952
+        end: 2276
+    - title: §9
+      span:
+        start: 2277
+        end: 2491
+    - title: §10
+      span:
+        start: 2492
+        end: 2705
+    - title: §11-12
+      span:
+        start: 2706
+        end: 3009
+    - title: §13
+      span:
+        start: 3010
+        end: 3280
+    - title: §14
+      span:
+        start: 3281
+        end: 3686
+    - title: §15
+      span:
+        start: 3687
+        end: 3887
+    - title: §16
+      span:
+        start: 3888
+        end: 4329
+    - title: §17
+      span:
+        start: 4330
+        end: 4713
+    - title: §18
+      span:
+        start: 4714
+        end: 4942
+    - title: §19
+      span:
+        start: 4943
+        end: 5243
+    - title: §20
+      span:
+        start: 5244
+        end: 5725
+    - title: §21
+      span:
+        start: 5726
+        end: 6119
+    - title: §22
+      span:
+        start: 6120
+        end: 6218
+    - title: §23
+      span:
+        start: 6219
+        end: 6307
+    - title: Colophon
+      span:
+        start: 6308
+        end: 6328
